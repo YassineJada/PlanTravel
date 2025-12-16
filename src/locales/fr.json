@@ -1,0 +1,254 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "features": "Fonctionnalités",
+    "howItWorks": "Comment ça marche",
+    "blog": "Blog",
+    "dashboard": "Tableau de bord",
+    "signIn": "Se connecter",
+    "signUp": "S'inscrire",
+    "signOut": "Se déconnecter"
+  },
+  "hero": {
+    "title": "Planifiez votre voyage parfait avec l'IA",
+    "subtitle": "Obtenez des itinéraires de voyage personnalisés jour par jour en quelques secondes. Propulsé par l'intelligence artificielle.",
+    "cta": "Commencer à planifier",
+    "orViewDemo": "ou voir une démo",
+    "badge": "Propulsé par l'IA"
+  },
+  "generator": {
+    "title": "Créez l'itinéraire de vos rêves",
+    "subtitle": "Répondez à quelques questions et laissez l'IA planifier votre voyage parfait",
+    "destination": "Destination",
+    "destinationPlaceholder": "ex: Paris, France",
+    "startDate": "Date de début",
+    "endDate": "Date de fin",
+    "budget": "Budget",
+    "budgetLow": "Économique",
+    "budgetMedium": "Modéré",
+    "budgetHigh": "Luxe",
+    "travelType": "Type de voyage",
+    "travelSolo": "Solo",
+    "travelCouple": "Couple",
+    "travelFriends": "Amis",
+    "travelFamily": "Famille",
+    "activities": "Activités préférées",
+    "activityCulture": "Culture et musées",
+    "activityNature": "Nature et plein air",
+    "activityFood": "Gastronomie",
+    "activityAdventure": "Aventure",
+    "activityShopping": "Shopping",
+    "activityNightlife": "Vie nocturne",
+    "activityRelaxation": "Détente",
+    "language": "Langue",
+    "generate": "Générer mon voyage",
+    "generating": "Génération...",
+    "next": "Suivant",
+    "back": "Retour",
+    "step1": {
+      "title": "Destination",
+      "description": "Où souhaitez-vous aller et quand?"
+    },
+    "step2": {
+      "title": "Budget et style",
+      "description": "Parlez-nous de votre budget et de votre style de voyage"
+    },
+    "step3": {
+      "title": "Activités",
+      "description": "Que souhaitez-vous faire pendant votre voyage?"
+    },
+    "step4": {
+      "title": "Révision",
+      "description": "Vérifiez vos choix et générez votre itinéraire"
+    }
+  },
+  "features": {
+    "title": "Pourquoi choisir AI Trip Planner",
+    "subtitle": "Tout ce dont vous avez besoin pour planifier des vacances parfaites",
+    "ai": {
+      "title": "Propulsé par l'IA",
+      "description": "L'IA avancée crée des itinéraires personnalisés basés sur vos préférences"
+    },
+    "instant": {
+      "title": "Résultats instantanés",
+      "description": "Obtenez votre plan de voyage complet en quelques secondes, pas en heures"
+    },
+    "multilingual": {
+      "title": "Multilingue",
+      "description": "Disponible en anglais, français et arabe avec support RTL"
+    },
+    "detailed": {
+      "title": "Plans détaillés",
+      "description": "Répartition jour par jour avec activités, conseils et informations locales"
+    },
+    "budget": {
+      "title": "Adapté au budget",
+      "description": "Obtenez des recommandations qui correspondent à votre budget"
+    },
+    "free": {
+      "title": "Gratuit",
+      "description": "Itinéraires illimités pour les utilisateurs enregistrés, gratuit pour toujours"
+    }
+  },
+  "howItWorks": {
+    "title": "Comment ça marche",
+    "subtitle": "Trois étapes simples vers votre voyage parfait",
+    "step1": {
+      "title": "Entrez les détails",
+      "description": "Parlez-nous de votre destination, dates, budget et préférences"
+    },
+    "step2": {
+      "title": "Magie de l'IA",
+      "description": "Notre IA analyse vos préférences et crée un itinéraire personnalisé"
+    },
+    "step3": {
+      "title": "Obtenez votre plan",
+      "description": "Recevez un plan de voyage détaillé jour par jour prêt à utiliser"
+    }
+  },
+  "faq": {
+    "title": "Questions fréquemment posées",
+    "q1": {
+      "question": "Est-ce vraiment gratuit?",
+      "answer": "Oui! Les utilisateurs anonymes obtiennent 3 itinéraires gratuits. Inscrivez-vous pour un accès illimité, complètement gratuit."
+    },
+    "q2": {
+      "question": "Quelle est la précision des itinéraires?",
+      "answer": "Notre IA est formée sur des données de voyage étendues et fournit des recommandations réalistes et pratiques. Cependant, vérifiez toujours les détails avant de voyager."
+    },
+    "q3": {
+      "question": "Puis-je modifier l'itinéraire généré?",
+      "answer": "Vous pouvez régénérer avec différents paramètres. Copiez et collez le contenu pour le modifier manuellement."
+    },
+    "q4": {
+      "question": "Quelles langues sont prises en charge?",
+      "answer": "Actuellement anglais, français et arabe avec support RTL complet."
+    },
+    "q5": {
+      "question": "Puis-je sauvegarder mes itinéraires?",
+      "answer": "Oui! Les utilisateurs enregistrés peuvent sauvegarder un nombre illimité d'itinéraires dans leur tableau de bord."
+    },
+    "q6": {
+      "question": "Offrez-vous des remboursements?",
+      "answer": "Le service est complètement gratuit, il n'y a donc rien à rembourser!"
+    }
+  },
+  "cta": {
+    "title": "Prêt à planifier votre prochaine aventure?",
+    "subtitle": "Rejoignez des milliers de voyageurs qui font confiance à AI Trip Planner",
+    "button": "Commencer gratuitement"
+  },
+  "footer": {
+    "tagline": "Planification de voyage propulsée par l'IA simplifiée",
+    "company": "Entreprise",
+    "about": "À propos",
+    "contact": "Contact",
+    "blog": "Blog",
+    "legal": "Juridique",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "rights": "Tous droits réservés."
+  },
+  "itinerary": {
+    "title": "Votre itinéraire de voyage",
+    "overview": "Aperçu",
+    "day": "Jour",
+    "morning": "Matin",
+    "afternoon": "Après-midi",
+    "evening": "Soir",
+    "budgetTips": "Conseils budgétaires",
+    "localAdvice": "Conseils locaux",
+    "safetyTips": "Conseils de sécurité",
+    "copyToClipboard": "Copier dans le presse-papiers",
+    "exportPDF": "Exporter en PDF",
+    "saveTrip": "Enregistrer le voyage",
+    "generateNew": "Générer un nouveau voyage",
+    "copied": "Copié dans le presse-papiers!",
+    "tripSaved": "Voyage enregistré avec succès!",
+    "shareWithFriends": "Partager avec des amis :"
+  },
+  "auth": {
+    "signIn": {
+      "title": "Bon retour",
+      "subtitle": "Connectez-vous pour accéder à vos voyages sauvegardés"
+    },
+    "signUp": {
+      "title": "Créer un compte",
+      "subtitle": "Rejoignez-nous pour une planification de voyage illimitée"
+    },
+    "email": "Email",
+    "emailPlaceholder": "votre.email@exemple.com",
+    "password": "Mot de passe",
+    "passwordPlaceholder": "Entrez votre mot de passe",
+    "name": "Nom complet",
+    "namePlaceholder": "Jean Dupont",
+    "signInButton": "Se connecter",
+    "signUpButton": "Créer un compte",
+    "continueWithGoogle": "Continuer avec Google",
+    "signUpWithGoogle": "S'inscrire avec Google",
+    "orContinueWith": "ou continuer avec email",
+    "noAccount": "Vous n'avez pas de compte?",
+    "haveAccount": "Vous avez déjà un compte?",
+    "signUpLink": "S'inscrire",
+    "signInLink": "Se connecter"
+  },
+  "dashboard": {
+    "title": "Mes voyages",
+    "welcome": "Bon retour",
+    "noTrips": "Vous n'avez pas encore créé de voyages",
+    "createFirst": "Créez votre premier voyage",
+    "viewTrip": "Voir le voyage",
+    "deleteTrip": "Supprimer",
+    "confirmDelete": "Êtes-vous sûr de vouloir supprimer ce voyage?",
+    "cancel": "Annuler",
+    "delete": "Supprimer"
+  },
+  "admin": {
+    "title": "Tableau de bord administrateur",
+    "statistics": "Statistiques",
+    "totalUsers": "Total des utilisateurs",
+    "totalTrips": "Total des voyages",
+    "tripsToday": "Voyages aujourd'hui",
+    "anonymousTrips": "Voyages anonymes",
+    "users": "Utilisateurs",
+    "exportUsers": "Exporter les utilisateurs",
+    "email": "Email",
+    "joined": "Inscrit",
+    "trips": "Voyages",
+    "admin": "Admin"
+  },
+  "errors": {
+    "required": "Ce champ est requis",
+    "invalidEmail": "Adresse email invalide",
+    "passwordMin": "Le mot de passe doit contenir au moins 8 caractères",
+    "passwordMatch": "Les mots de passe doivent correspondre",
+    "generic": "Quelque chose s'est mal passé. Veuillez réessayer.",
+    "limitReached": "Vous avez atteint la limite de 3 voyages. Veuillez vous inscrire pour continuer.",
+    "authRequired": "Vous devez être connecté pour faire cela"
+  },
+  "blog": {
+    "title": "Blog de voyage",
+    "readMore": "Lire la suite",
+    "latestPosts": "Derniers articles"
+  },
+  "cookies": {
+    "title": "🍪 Nous respectons votre vie privée",
+    "description": "Nous utilisons des cookies pour améliorer votre expérience de navigation, proposer du contenu personnalisé et analyser notre trafic. En cliquant sur 'Tout accepter', vous consentez à notre utilisation des cookies.",
+    "learnMore": "En savoir plus",
+    "accept": "Tout accepter",
+    "decline": "Refuser"
+  },
+  "newsletter": {
+    "title": "Inspirez votre voyage! 🌍",
+    "description": "Abonnez-vous à notre newsletter et recevez des conseils de voyage exclusifs, des guides de destinations et des offres spéciales!",
+    "benefit1": "🎯 Conseils de voyage exclusifs et guides de destinations",
+    "benefit2": "💰 Accès anticipé aux offres et réductions spéciales",
+    "benefit3": "📧 Inspiration de voyage hebdomadaire dans votre boîte mail",
+    "emailPlaceholder": "Entrez votre adresse email",
+    "subscribe": "S'abonner maintenant",
+    "subscribing": "Abonnement en cours...",
+    "privacy": "Nous respectons votre vie privée. Désabonnez-vous à tout moment.",
+    "successTitle": "Bienvenue à bord!",
+    "successMessage": "Merci de vous être abonné! Consultez votre boîte mail pour votre cadeau de bienvenue."
+  }
+}

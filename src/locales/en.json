@@ -1,0 +1,254 @@
+{
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "blog": "Blog",
+    "dashboard": "Dashboard",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "signOut": "Sign Out"
+  },
+  "hero": {
+    "title": "Plan Your Perfect Trip with AI",
+    "subtitle": "Get personalized day-by-day travel itineraries in seconds. Powered by artificial intelligence.",
+    "cta": "Start Planning Now",
+    "orViewDemo": "or view a demo",
+    "badge": "Powered by AI"
+  },
+  "generator": {
+    "title": "Create Your Dream Itinerary",
+    "subtitle": "Answer a few questions and let AI plan your perfect trip",
+    "destination": "Destination",
+    "destinationPlaceholder": "e.g., Paris, France",
+    "startDate": "Start Date",
+    "endDate": "End Date",
+    "budget": "Budget",
+    "budgetLow": "Budget",
+    "budgetMedium": "Moderate",
+    "budgetHigh": "Luxury",
+    "travelType": "Travel Type",
+    "travelSolo": "Solo",
+    "travelCouple": "Couple",
+    "travelFriends": "Friends",
+    "travelFamily": "Family",
+    "activities": "Preferred Activities",
+    "activityCulture": "Culture & Museums",
+    "activityNature": "Nature & Outdoors",
+    "activityFood": "Food & Dining",
+    "activityAdventure": "Adventure",
+    "activityShopping": "Shopping",
+    "activityNightlife": "Nightlife",
+    "activityRelaxation": "Relaxation",
+    "language": "Language",
+    "generate": "Generate My Trip",
+    "generating": "Generating...",
+    "next": "Next",
+    "back": "Back",
+    "step1": {
+      "title": "Destination",
+      "description": "Where would you like to go and when?"
+    },
+    "step2": {
+      "title": "Budget & Style",
+      "description": "Tell us about your budget and travel style"
+    },
+    "step3": {
+      "title": "Activities",
+      "description": "What would you like to do during your trip?"
+    },
+    "step4": {
+      "title": "Review",
+      "description": "Review your choices and generate your itinerary"
+    }
+  },
+  "features": {
+    "title": "Why Choose AI Trip Planner",
+    "subtitle": "Everything you need to plan the perfect vacation",
+    "ai": {
+      "title": "AI-Powered",
+      "description": "Advanced AI creates personalized itineraries based on your preferences"
+    },
+    "instant": {
+      "title": "Instant Results",
+      "description": "Get your complete travel plan in seconds, not hours"
+    },
+    "multilingual": {
+      "title": "Multilingual",
+      "description": "Available in English, French, and Arabic with RTL support"
+    },
+    "detailed": {
+      "title": "Detailed Plans",
+      "description": "Day-by-day breakdown with activities, tips, and local advice"
+    },
+    "budget": {
+      "title": "Budget Friendly",
+      "description": "Get recommendations that match your budget level"
+    },
+    "free": {
+      "title": "Free to Use",
+      "description": "Unlimited itineraries for registered users, forever free"
+    }
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "subtitle": "Three simple steps to your perfect trip",
+    "step1": {
+      "title": "Enter Details",
+      "description": "Tell us about your destination, dates, budget, and preferences"
+    },
+    "step2": {
+      "title": "AI Magic",
+      "description": "Our AI analyzes your preferences and creates a personalized itinerary"
+    },
+    "step3": {
+      "title": "Get Your Plan",
+      "description": "Receive a detailed day-by-day travel plan ready to use"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": {
+      "question": "Is this really free?",
+      "answer": "Yes! Anonymous users get 3 free itineraries. Sign up for unlimited access, completely free."
+    },
+    "q2": {
+      "question": "How accurate are the itineraries?",
+      "answer": "Our AI is trained on extensive travel data and provides realistic, practical recommendations. However, always verify details before traveling."
+    },
+    "q3": {
+      "question": "Can I edit the generated itinerary?",
+      "answer": "You can regenerate with different parameters. Copy and paste the content to edit manually."
+    },
+    "q4": {
+      "question": "Which languages are supported?",
+      "answer": "Currently English, French, and Arabic with full RTL support."
+    },
+    "q5": {
+      "question": "Can I save my itineraries?",
+      "answer": "Yes! Registered users can save unlimited itineraries to their dashboard."
+    },
+    "q6": {
+      "question": "Do you offer refunds?",
+      "answer": "The service is completely free, so there's nothing to refund!"
+    }
+  },
+  "cta": {
+    "title": "Ready to Plan Your Next Adventure?",
+    "subtitle": "Join thousands of travelers who trust AI Trip Planner",
+    "button": "Get Started Free"
+  },
+  "footer": {
+    "tagline": "AI-powered travel planning made simple",
+    "company": "Company",
+    "about": "About Us",
+    "contact": "Contact",
+    "blog": "Blog",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "rights": "All rights reserved."
+  },
+  "itinerary": {
+    "title": "Your Trip Itinerary",
+    "overview": "Overview",
+    "day": "Day",
+    "morning": "Morning",
+    "afternoon": "Afternoon",
+    "evening": "Evening",
+    "budgetTips": "Budget Tips",
+    "localAdvice": "Local Advice",
+    "safetyTips": "Safety Tips",
+    "copyToClipboard": "Copy to Clipboard",
+    "exportPDF": "Export as PDF",
+    "saveTrip": "Save Trip",
+    "generateNew": "Generate New Trip",
+    "copied": "Copied to clipboard!",
+    "tripSaved": "Trip saved successfully!",
+    "shareWithFriends": "Share with friends:"
+  },
+  "auth": {
+    "signIn": {
+      "title": "Welcome Back",
+      "subtitle": "Sign in to access your saved trips"
+    },
+    "signUp": {
+      "title": "Create Account",
+      "subtitle": "Join us to get unlimited trip planning"
+    },
+    "email": "Email",
+    "emailPlaceholder": "your.email@example.com",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "name": "Full Name",
+    "namePlaceholder": "John Doe",
+    "signInButton": "Sign In",
+    "signUpButton": "Create Account",
+    "continueWithGoogle": "Continue with Google",
+    "signUpWithGoogle": "Sign up with Google",
+    "orContinueWith": "or continue with email",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "signUpLink": "Sign Up",
+    "signInLink": "Sign In"
+  },
+  "dashboard": {
+    "title": "My Trips",
+    "welcome": "Welcome back",
+    "noTrips": "You haven't created any trips yet",
+    "createFirst": "Create your first trip",
+    "viewTrip": "View Trip",
+    "deleteTrip": "Delete",
+    "confirmDelete": "Are you sure you want to delete this trip?",
+    "cancel": "Cancel",
+    "delete": "Delete"
+  },
+  "admin": {
+    "title": "Admin Dashboard",
+    "statistics": "Statistics",
+    "totalUsers": "Total Users",
+    "totalTrips": "Total Trips",
+    "tripsToday": "Trips Today",
+    "anonymousTrips": "Anonymous Trips",
+    "users": "Users",
+    "exportUsers": "Export Users",
+    "email": "Email",
+    "joined": "Joined",
+    "trips": "Trips",
+    "admin": "Admin"
+  },
+  "errors": {
+    "required": "This field is required",
+    "invalidEmail": "Invalid email address",
+    "passwordMin": "Password must be at least 8 characters",
+    "passwordMatch": "Passwords must match",
+    "generic": "Something went wrong. Please try again.",
+    "limitReached": "You've reached the limit of 3 trips. Please sign up to continue.",
+    "authRequired": "You must be signed in to do this"
+  },
+  "blog": {
+    "title": "Travel Blog",
+    "readMore": "Read More",
+    "latestPosts": "Latest Posts"
+  },
+  "cookies": {
+    "title": "🍪 We Value Your Privacy",
+    "description": "We use cookies to enhance your browsing experience, serve personalized content, and analyze our traffic. By clicking 'Accept All', you consent to our use of cookies.",
+    "learnMore": "Learn more",
+    "accept": "Accept All",
+    "decline": "Decline"
+  },
+  "newsletter": {
+    "title": "Get Travel Inspiration! 🌍",
+    "description": "Subscribe to our newsletter and receive exclusive travel tips, destination guides, and special offers!",
+    "benefit1": "🎯 Exclusive travel tips & destination guides",
+    "benefit2": "💰 Early access to special deals & discounts",
+    "benefit3": "📧 Weekly travel inspiration in your inbox",
+    "emailPlaceholder": "Enter your email address",
+    "subscribe": "Subscribe Now",
+    "subscribing": "Subscribing...",
+    "privacy": "We respect your privacy. Unsubscribe anytime.",
+    "successTitle": "Welcome Aboard!",
+    "successMessage": "Thank you for subscribing! Check your inbox for your welcome gift."
+  }
+}
