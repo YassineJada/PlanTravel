@@ -96,6 +96,8 @@ export async function generateStaticParams() {
   return params;
 }
 
+export const dynamic = "force-dynamic";
+
 export default function BlogPostPage({
   params,
 }: {
